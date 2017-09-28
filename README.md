@@ -1,0 +1,1 @@
+# iot.transdutorSemFio.desenho
